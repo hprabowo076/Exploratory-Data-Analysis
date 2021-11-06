@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis
 Exploratory Data Analysis Project on Python
+Haryo Prabowo
 
 Introduction
 
@@ -14,7 +15,7 @@ Steps:
     Bivariate analysis
     Overall summary/EDA findings
 
-Name: Haryo Prabowo
+The details can be found on the notebook in this repo
 
 Overall summary/EDA findings
 
