@@ -17,7 +17,7 @@ In this repository, I will perform Exploratory Data Analysis (EDA) on admission 
 
 The details can be found on the notebook in this repo
 
-Overall summary/EDA findings
+# Overall summary/EDA findings
 
 * The data does not contain major issues. There are only some NULL values and duplicated rows, and have been handled accordingly.
 * Overall, the minimum and maximum values make sense for each column.
